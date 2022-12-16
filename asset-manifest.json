@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mu-test/static/css/main.e6c13ad2.css",
+    "main.js": "/mu-test/static/js/main.ba2653db.js",
+    "index.html": "/mu-test/index.html",
+    "main.e6c13ad2.css.map": "/mu-test/static/css/main.e6c13ad2.css.map",
+    "main.ba2653db.js.map": "/mu-test/static/js/main.ba2653db.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.ba2653db.js"
+  ]
+}
